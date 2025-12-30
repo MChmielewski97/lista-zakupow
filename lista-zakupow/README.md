@@ -19,7 +19,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Lista Zakupów (React)
 
-Pplikacja webowa stworzona w React + Vite, umożliwiająca zarządzanie listą zakupów.  
+Aplikacja webowa stworzona w React + Vite, umożliwiająca zarządzanie listą zakupów.  
 Pozwala dodawać, usuwać oraz edytować elementy. Dodatkowo sprawdza duplikaty niezależnie od wielkości liter (np. „mąka” i „MĄKA”).
 
 ---
