@@ -50,7 +50,7 @@ npm install
 
 npm run dev
 
-5. Otwórz podany link w przeglądarce (zwykle http://localhost:XXXX)
+5. Otwórz podany link w przeglądarce (zwykle http://localhost:XXXX). W razie jakichkolwiek problemów z odpalaniem aplikacji, upewnij się, że npm jest w wersji 10.9.4, a node w wersji v22.11.1
 
 Autor
 Michał Chmielewski
